@@ -7,10 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/*Ajout du code CSS qui était présent dans le code HTML*/
 .keywords {
     color: #cccccc;
     font-size: 1px;
 }
+
+.keywords2 {
+    color: #F3976C;
+}
+/*fin de l'ajout*/
 
 a,
 button {
