@@ -318,6 +318,12 @@ a:hover {
     display: inline;
 }
 
+/*Ajout d'une width à l'image*/
+.navbar-brand img {
+    width: 100%;
+    height: 40px;
+}
+
 .navbar-brand img[src$=svg] {
     min-width: 100px;
 }
