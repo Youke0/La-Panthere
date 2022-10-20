@@ -39,6 +39,11 @@ img {
 }
 /*fin*/
 
+/*Ajout d'une width au logo du site*/
+.img-logo {
+    width: 100px;
+}
+
 
 li {
     width: 100px;
